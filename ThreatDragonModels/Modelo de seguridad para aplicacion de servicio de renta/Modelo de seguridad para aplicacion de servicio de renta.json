@@ -655,13 +655,6 @@
               "storesCredentials": false,
               "storesInventory": false,
               "threats": []
-            },
-            "tools": {
-              "items": [
-                "boundary",
-                "button-remove"
-              ],
-              "name": null
             }
           },
           {
@@ -1070,6 +1063,10 @@
               },
               {
                 "x": 230,
+                "y": -380
+              },
+              {
+                "x": 260,
                 "y": -380
               }
             ]
